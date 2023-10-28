@@ -1,6 +1,6 @@
 import tkinter as tk
 import random
-import pyperclip
+# import pyperclip
 
 # Função para gerar a senha e copiá-la para a área de transferência
 def generate_password():
